@@ -1,0 +1,23 @@
+{
+  "name": "happy",
+  "version": "0.0.1",
+  "description": "Happy Deployments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfernandez/happy.git"
+  },
+  "keywords": [
+    "test",
+    "happy"
+  ],
+  "author": "@pinchito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexfernandez/happy/issues"
+  },
+  "homepage": "https://github.com/alexfernandez/happy#readme"
+}
